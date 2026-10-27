@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+outputs/
+local_logs/
+wandb/
+data/
+datasets/
+*.pt
+*.pth
+*.ckpt
